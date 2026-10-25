@@ -1,0 +1,19 @@
+simple64/
+discord/
+vosk/
+7z/
+cheats.json
+*zip
+*.dylib
+.DS_Store
+build/
+build-*/
+**/build/
+**/build-*/
+RUN GLIDEN CHECKPOINT *.cmd
+*.o
+*.exe
+*.dll
+.github/
+**/.github/
+pull_repos.sh
