@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".assets/simple64X.png" alt="simple64X" width="320">
+</p>
+
 # simple64X
 
 simple64X is a Windows fork of [simple64](https://github.com/simple64/simple64), the N64 emulator built on mupen64plus, with a game library, per-game settings, controller assignment and live Pak swapping.
